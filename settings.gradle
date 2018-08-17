@@ -1,0 +1,6 @@
+enableFeaturePreview('STABLE_PUBLISHING')
+rootProject.name = 'tc'
+include 'core'
+include 'swerve'
+include 'talon'
+include 'telemetry'

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_main.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_test.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swerve/swerve.iml" filepath="$PROJECT_DIR$/.idea/modules/swerve/swerve.iml" group="swerve" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swerve/swerve_main.iml" filepath="$PROJECT_DIR$/.idea/modules/swerve/swerve_main.iml" group="swerve" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swerve/swerve_test.iml" filepath="$PROJECT_DIR$/.idea/modules/swerve/swerve_test.iml" group="swerve" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/talon/talon.iml" filepath="$PROJECT_DIR$/.idea/modules/talon/talon.iml" group="talon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/talon/talon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/talon/talon_main.iml" group="talon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/talon/talon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/talon/talon_test.iml" group="talon" />
+      <module fileurl="file://$PROJECT_DIR$/tc.iml" filepath="$PROJECT_DIR$/tc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tc_main.iml" group="tc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tc_test.iml" group="tc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetry/telemetry.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetry/telemetry.iml" group="telemetry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetry/telemetry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetry/telemetry_main.iml" group="telemetry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetry/telemetry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetry/telemetry_test.iml" group="telemetry" />
+    </modules>
+  </component>
+</project>
